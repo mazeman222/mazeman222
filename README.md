@@ -2,5 +2,5 @@
 
 <h2>My Technology Projects:</h2>
 
-## Table of Contents
+<!--Table of Contents -->
   - [How to Create Your Profile](#how-to-create-your-profile)
