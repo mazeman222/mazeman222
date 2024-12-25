@@ -4,7 +4,7 @@
 
 <!--Table of Contents -->
 <b>osTicket (Help Desk Ticketing System</b>
-  - [osTicket: Learning and Installing](https://github.com/mazeman222/osTicket-Learning-and-Installing))
+  - [osTicket: Learning and Installing](https://github.com/mazeman222/osTicket-Learning-and-Installing)
   - ![Annotation 2024-12-23 025508](https://github.com/user-attachments/assets/46d1888d-5d83-4160-8c0c-057cc46c3fbd)
   - ![Annotation 2024-12-23 025613](https://github.com/user-attachments/assets/efbadf66-c7df-4769-9f2a-5944da43fc33)
   - ![Annotation 2024-12-23 031159](https://github.com/user-attachments/assets/72626b85-9534-46b0-af9b-c44f3edf195c)
