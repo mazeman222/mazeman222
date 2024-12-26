@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Learning and Installing](https://github.com/mazeman222/osTicket-Learning-and-Installing)
-  - [osTicket: Post-Install Configuration]()
+  - [osTicket: Post-Install Configuration](https://github.com/mazeman222/post-install-config)
 
 
 <!-- <h2>🤳Connect with me:</h2>
