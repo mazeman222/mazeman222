@@ -2,7 +2,6 @@
 
 <h2>My Technology Projects:</h2>
 
-<!--Table of Contents -->
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Learning and Installing](https://github.com/mazeman222/osTicket-Learning-and-Installing)
   - 
