@@ -6,8 +6,9 @@
   - [osTicket: Learning and Installing](https://github.com/mazeman222/osTicket-Learning-and-Installing)
   - [osTicket: Post-Install Configuration](https://github.com/mazeman222/post-install-config)
   - [osTicket: Example Tickets osTicket](https://github.com/mazeman222/example-tickets-osTicket)
- 
 - <b>Microsoft Azure</b>
+  - []()
+  - []()
 
 
 <!-- <h2>🤳Connect with me:</h2>
